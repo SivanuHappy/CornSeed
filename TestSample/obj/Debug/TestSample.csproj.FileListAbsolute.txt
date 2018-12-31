@@ -1,0 +1,13 @@
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\TestSample.dll
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\TestSample.pdb
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\nunit.framework.dll
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\WebDriver.dll
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\WebDriver.Support.dll
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\nunit.framework.xml
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\WebDriver.xml
+C:\Users\anush\source\repos\TestSample\TestSample\bin\Debug\WebDriver.Support.xml
+C:\Users\anush\source\repos\TestSample\TestSample\obj\Debug\TestSample.csprojAssemblyReference.cache
+C:\Users\anush\source\repos\TestSample\TestSample\obj\Debug\TestSample.csproj.CoreCompileInputs.cache
+C:\Users\anush\source\repos\TestSample\TestSample\obj\Debug\TestSample.csproj.CopyComplete
+C:\Users\anush\source\repos\TestSample\TestSample\obj\Debug\TestSample.dll
+C:\Users\anush\source\repos\TestSample\TestSample\obj\Debug\TestSample.pdb
