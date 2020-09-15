@@ -1,2 +1,2 @@
 # CornSeed
-![Conda Project](qdasdas/conda.png)
+![Conda Project](/conda.png)
